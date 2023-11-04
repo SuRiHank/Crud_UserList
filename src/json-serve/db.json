@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Dang Phuoc HanK",
+      "email": "hak@in.com",
+      "phone": "9102391230",
+      "role": "staff"
+    },
+    {
+      "id": 2,
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "900000222",
+      "role": "admin"
+    },
+    {
+      "id": 3,
+      "name": "Admin User Hank",
+      "email": "admin@in.com",
+      "phone": "9876543210",
+      "role": "staff"
+    },
+    {
+      "id": 4,
+      "name": "DangHank",
+      "email": "hakai@in.com",
+      "phone": "0905150823",
+      "role": "admin"
+    },
+    {
+      "name": "Dang Phuoc Han",
+      "email": "hak@in.com",
+      "phone": "0910239123",
+      "role": "staff",
+      "id": 5
+    }
+  ]
+}
